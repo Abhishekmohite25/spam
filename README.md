@@ -1,8 +1,8 @@
 # spam
 
-TE-IT A ROLL NO. 23,35,36
+Abhishek Mohite TE-IT A ROLL NO. 36
 
-Batch A2
+Batch A2          Group Members: 23 ,35 ,36
 
 EMAIL/SMS SPAM CLASSIFICATION
 
